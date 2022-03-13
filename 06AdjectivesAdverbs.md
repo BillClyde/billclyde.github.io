@@ -1,10 +1,8 @@
 ---
 title: Toki Pona
 layout: post
+header: Adjectives and Adverbs
 ---
-
-## Adjectives and Adverbs
-
 >If you put two words together, the second word describes the first word.  
 >**mi**, **sina**, **li**, **e** are exceptions
 

@@ -1,9 +1,8 @@
 ---
 title: Toki Pona
 layout: post
+header: A Poem
 ---
-
-## A Poem
 
 mi jo e kili  
 ona li pona  
