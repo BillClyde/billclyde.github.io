@@ -13,12 +13,12 @@ mi pona
 
 sina moku
 : You eat
-: You will eat
-: You have eaten
+: **or** You will eat
+: **or** You have eaten
 
 pipi li moli
 : The bug is dead
-: The bug will die
-: The bug has died
+: **or** The bug will die
+: **or** The bug has died
 
 [A Poem](07aPoem.md) | [Posessives](09Posessives.md)
