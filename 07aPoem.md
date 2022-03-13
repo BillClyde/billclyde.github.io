@@ -23,4 +23,4 @@ I nibble the little fruit
 > When the subject is **mi** or **sina**,  **li** is understood and omitted.  
 > **e** joins actions and objects together: *verb* **e** *object*
 
-[Adjectives and Adverbs](06AdjectivesAdverbs.md) | [A Poem](07aPoem.md)
+[Adjectives and Adverbs](06AdjectivesAdverbs.md) | [Tense](08Tense.md)
