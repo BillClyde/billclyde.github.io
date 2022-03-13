@@ -14,4 +14,13 @@ It is good
 It is small  
 I nibble the little fruit  
 
-[Adjectives and Adverbs](06AdjectivesAdverbs.md)
+### An important note:
+
+> in **toki pona** the verb 'to be' does not exist  
+
+> **li** and **e** mean nothing by themselves but give a sentence structure  
+> The principle function of **li** is to indicate that the preceding word is the subject.  
+> When the subject is **mi** or **sina**,  **li** is understood and omitted.  
+> **e** joins actions and objects together: *verb* **e** *object*
+
+[Adjectives and Adverbs](06AdjectivesAdverbs.md) | [A Poem](07aPoem.md)
