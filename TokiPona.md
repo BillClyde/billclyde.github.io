@@ -12,3 +12,5 @@ and unlike any other language.
 * Because learning languages is a skill that improves the more you learn languages.
 * Because it teaches you to see things differently.
 * For simple talking.
+
+[Alphabet](Alphabet.md)
