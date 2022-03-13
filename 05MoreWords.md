@@ -11,4 +11,4 @@ moli: killing, dying, death
 ilo: tool  
 ijo: thing, something
 
-[Direct Objects](04DirectObject.md) | [Adjectives and Adverbs]()
+[Direct Objects](04DirectObject.md) | [Adjectives and Adverbs](06AdjectivesAdverbs.md)
