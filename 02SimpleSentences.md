@@ -1,3 +1,6 @@
+---
+title: Toki Pona
+---
 ## Simple Sentences
 
 {mi, sina} + {adjective}  

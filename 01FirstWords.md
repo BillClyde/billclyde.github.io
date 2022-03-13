@@ -1,3 +1,6 @@
+---
+title: Toki Pona
+---
 ## First Words
 mi: I  
 sina: you  

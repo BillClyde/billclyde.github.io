@@ -1,3 +1,6 @@
+---
+title: Toki Pona
+---
 ## Alphabet and Pronunciation
 ### Vowels
 

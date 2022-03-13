@@ -1,3 +1,6 @@
+---
+title: Toki Pona
+---
 ## Toki Pona Introducion
 
 ### Why Toki Pona?

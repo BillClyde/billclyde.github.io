@@ -1,3 +1,6 @@
+---
+title: Toki Pona
+---
 ## More Sentences
 
 {noun} + li + {adjective}  

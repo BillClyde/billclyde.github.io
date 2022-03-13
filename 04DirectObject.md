@@ -1,3 +1,6 @@
+---
+title: Toki Pona
+---
 ## Direct Objects
 
   >That which receives the action is preceded by **e**
