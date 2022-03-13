@@ -1,5 +1,6 @@
 ---
 title: Toki Pona
+layout: post
 ---
 ## Direct Objects
 
@@ -11,4 +12,4 @@ title: Toki Pona
   mi moku e kili -> I eat the fruit  
   pipi li moku e moku -> Bugs eat the food  
 
-  [Sentences](03Sentences.md)
+  [Sentences](03Sentences.md) | [More Words](05MoreWords.md)

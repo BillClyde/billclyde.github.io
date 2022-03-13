@@ -1,5 +1,6 @@
 ---
 title: Toki Pona
+layout: post
 ---
 ## First Words
 mi: I  
