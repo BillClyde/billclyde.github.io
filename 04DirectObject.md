@@ -1,8 +1,9 @@
 ---
-title: Toki Pona
-layout: post
-header: Direct Objects
+Title: Direct Objects
 ---
+
+## Toki Pona: Direct Objects
+
   >That which receives the action is preceded by **e**
 
   {mi, sina} + {verb} + e + {object}  

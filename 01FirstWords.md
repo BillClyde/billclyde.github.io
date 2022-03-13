@@ -1,8 +1,9 @@
 ---
-title: Toki Pona
-layout: post
-header: First Words
+Title: First Words
 ---
+
+## Toki Pona: First Words
+
 mi: I  
 sina: you  
 ona: he, she, them, it

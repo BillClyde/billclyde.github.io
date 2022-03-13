@@ -1,8 +1,9 @@
 ---
-title: Toki Pona
-layout: post
-header: Simple Sentences
+title: Simple Sentences
 ---
+
+## Toki Pona: Simple Sentences
+
 {mi, sina} + {noun, adjective}  
 mi pona! -> I'm good!  
 sina moku -> You eat  

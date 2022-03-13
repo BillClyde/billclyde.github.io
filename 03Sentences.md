@@ -1,8 +1,9 @@
 ---
-title: Toki Pona
-layout: post
-header: More Sentences
+title: More Sentences
 ---
+
+## Toki Pona: More Sentences
+
 {noun} + li + {noun, adjective}  
 
 ona li pona -> She is good.  

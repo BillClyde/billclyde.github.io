@@ -1,8 +1,9 @@
 ---
-title: Toki Pona
-layout: post
-header: More Words
+title: More Words
 ---
+
+## Toki Pona: More Words
+
 jo: to have  
 lili:  small, little, young  
 suli:  big, tall, long, important  

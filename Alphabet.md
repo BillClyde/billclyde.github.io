@@ -1,15 +1,17 @@
 ---
-title: Toki Pona
+title: Alphabet
 ---
-## Alphabet and Pronunciation
+
+## Toki Pona: Alphabet and Pronunciation
+
 ### Vowels
 
-Toki Pona uses the standard five vowels  
 a, e, i, o, u (father, bed, deep, pony, moose)   
-and nine consonants.  
+
+### Consonants
 
 p, t, k, m, n, s, l, w sound exactly as in English  
-j sounds like the English y
+j sounds like the English y  
 Stress falls on the first syllable.
 
 Toki Pona words are always written in lower case.
