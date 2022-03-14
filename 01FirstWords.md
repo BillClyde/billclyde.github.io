@@ -4,9 +4,14 @@ Title: First Words
 
 ## Toki Pona: First Words
 
-mi: I  
-sina: you  
-ona: he, she, them, it
+mi
+: I  
+
+sina
+: you  
+
+ona
+: he, she, them, it
 
 pona
 : good, simple, to fix...  

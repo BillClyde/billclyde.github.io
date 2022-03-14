@@ -6,4 +6,7 @@ title: Compound Sentences
 
 > One subject with multiple verbs
 
-[Plurals](12Plurals.md)
+**{mi, sina} + {word} + li + {word}**
+**{subject} + li + {word} + li + {word}**
+
+[Plurals](12Plurals.md) | [Examles](14Examples.md)
