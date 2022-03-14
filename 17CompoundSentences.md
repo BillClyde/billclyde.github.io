@@ -6,7 +6,7 @@ title: Compound Sencences
 
 > Sentences can have several direct objects
 
-**{mi, sina} + {verb} + e + {object} + e + {object}**
+**{mi, sina} + {verb} + e + {object} + e + {object}**  
 **{subject} + li + {verb} + e + {object} + e + {object}**
 
 mi olin e sina e ona.
