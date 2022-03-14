@@ -24,3 +24,7 @@ title: Table of Contents
 [Compound Sentences #2](17CompoundSentences.md)  
 [wile](18wile.md)  
 [Adjectives and Adverbs #2](19AdjectivesAdverbs.md)  
+[More Words #4](20MoreWords.md)  
+[lon](21lon.md)  
+[sama](22sama.md)  
+[ala](23ala.md)  
