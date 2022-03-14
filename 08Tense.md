@@ -21,4 +21,4 @@ pipi li moli
 : **or** The bug will die
 : **or** The bug has died
 
-[A Poem](07aPoem.md) | [Posessives](09Posessives.md)
+[A Poem](07aPoem.md) | [Table of Contents](toc.md) | [Posessives](09Posessives.md)

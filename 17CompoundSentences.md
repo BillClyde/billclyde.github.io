@@ -21,4 +21,4 @@ mi lukin e suno e mun.
 jan ni li lukin e me e sina
 : That person is looking at you and I.
 
-[Meaning](16Meaning.md) | [wile](18wile.md)
+[Meaning](16Meaning.md) | [Table of Contents](toc.md) | [wile](18wile.md)

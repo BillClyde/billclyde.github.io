@@ -25,4 +25,4 @@ ilo
 ijo
 : thing, something
 
-[Direct Objects](04DirectObject.md) | [Adjectives and Adverbs](06AdjectivesAdverbs.md)
+[Direct Objects](04DirectObject.md) | [Table of Contents](toc.md) | [Adjectives and Adverbs](06AdjectivesAdverbs.md)

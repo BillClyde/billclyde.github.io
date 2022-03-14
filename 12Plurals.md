@@ -18,4 +18,4 @@ jan
 kili
 : A fruit or Many fruit
 
-[Compound Words](11CompoundWords.md) | [Compound Sentences](13CompoundSentences.md)
+[Compound Words](11CompoundWords.md) | [Table of Contents](toc.md) | [Compound Sentences](13CompoundSentences.md)

@@ -39,4 +39,4 @@ mi mute
 ona mute
 : them, they
 
-[More Words](10MoreWords.md) | [Plurals](12Plurals.md)
+[More Words](10MoreWords.md) | [Table of Contents](toc.md) | [Plurals](12Plurals.md)

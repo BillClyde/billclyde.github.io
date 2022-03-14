@@ -25,4 +25,4 @@ kili
 pipi
 : bug, insect, spider
 
-[Alphabet](Alphabet.md) | [Simple Sentences](02SimpleSentences.md)
+[Alphabet](Alphabet.md) | [Table of Contents](toc.md) | [Simple Sentences](02SimpleSentences.md)

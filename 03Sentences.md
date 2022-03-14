@@ -12,4 +12,4 @@ ona li pona
 kili li moku 
 : Fruit is food.  
 
-[Simple Sentences](02SimpleSentences.md) | [Direct Object](04DirectObject.md)
+[Simple Sentences](02SimpleSentences.md) | [Table of Contents](toc.md) | [Direct Object](04DirectObject.md)

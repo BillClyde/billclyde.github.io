@@ -21,4 +21,4 @@ ike
 : evil 
 : complicated
 
-[Posessives](09Posessives.md) | [Compound Words](11CompoundWords.md)
+[Posessives](09Posessives.md) | [Table of Contents](toc.md) | [Compound Words](11CompoundWords.md)

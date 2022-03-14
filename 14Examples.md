@@ -38,4 +38,4 @@ ike!
 pona!
 : Great! Ok! Yay!
 
-[Compound Sentences](13CompoundSentences.md) | [More Words](15MoreWords.md)
+[Compound Sentences](13CompoundSentences.md) | [Table of Contents](toc.md) | [More Words](15MoreWords.md)

@@ -15,4 +15,4 @@ Title: Direct Objects
   pipi li moku e moku. 
   : Bugs eat the food.  
 
-  [Sentences](03Sentences.md) | [More Words](05MoreWords.md)
+  [Sentences](03Sentences.md) | [Table of Contents](toc.md) | [More Words](05MoreWords.md)

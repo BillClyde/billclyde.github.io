@@ -25,4 +25,4 @@ ni
 mun
 : moon, night sky, stars
 
-[Examples](14Examples.md) | [Meaning](16Meaning.md)
+[Examples](14Examples.md) | [Table of Contents](toc.md) | [Meaning](16Meaning.md)
