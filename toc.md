@@ -23,3 +23,4 @@ title: Table of Contents
 [Meaning](16Meaning.md)  
 [Compound Sentences #2](17CompoundSentences.md)  
 [wile](18wile.md)  
+[Adjectives and Adverbs #2](19AdjectivesAdverbs.md)  
