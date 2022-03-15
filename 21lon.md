@@ -26,4 +26,4 @@ ona musi li lon ma.
 mi wile moli lon telo suli.
 : I wish to die at sea.
 
-[More Words](20MoreWords.md) | [Table of Contents](toc.md) | [sama](22sama.md)
+[Vocabulary](20Vocabulary.md) | [Table of Contents](toc.md) | [sama](22sama.md)

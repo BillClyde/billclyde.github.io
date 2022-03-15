@@ -12,4 +12,4 @@ mi pona!
 sina moku 
 : You eat  
 
-[First Words](01FirstWords.md) | [Table of Contents](toc.md) | [Sentences](03Sentences.md)
+[Vocabulary](01Vocabulary.md) | [Table of Contents](toc.md) | [Sentences](03Sentences.md)

@@ -25,4 +25,4 @@ sina moli e pipi lili.
 pipi li moku e ijo 
 : The bug is eating something  
 
-[More Words](05MoreWords.md) | [Table of Contents](toc.md) | [A Poem](07aPoem.md)
+[Vocabulary](05Vocabulary.md) | [Table of Contents](toc.md) | [A Poem](07aPoem.md)

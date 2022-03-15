@@ -27,4 +27,4 @@ mi pona lukin
 
 
 
-[wile](18wile.md) | [Table of Contents](toc.md) | [More Words](20MoreWords.md)
+[wile](18wile.md) | [Table of Contents](toc.md) | [Vocabulary](20Vocabulary.md)

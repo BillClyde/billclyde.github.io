@@ -33,4 +33,4 @@ ko moku
 jaki!
 : Yuck!
 
-[More Words](15MoreWords.md) | [Table of Contents](toc.md) | [Compound Sentences](17CompoundSentences.md)
+[Vocabulary](15Vocabulary.md) | [Table of Contents](toc.md) | [Compound Sentences](17CompoundSentences.md)

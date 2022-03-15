@@ -19,4 +19,4 @@ kili ona
 mi jo ilo sina
 : I have your tool
 
-[Tense](08Tense.md) | [Table of Contents](toc.md) | [More Words](10MoreWords.md)
+[Tense](08Tense.md) | [Table of Contents](toc.md) | [Vocabulary](10Vocabulary.md)
