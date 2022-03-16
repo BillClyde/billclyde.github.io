@@ -6,7 +6,7 @@ title: Compound Sentences
 
 > One subject with multiple verbs
 
-**{mi, sina} + {word} + li + {word}**
+**{mi, sina} + {word} + li + {word}**  
 **{subject} + li + {word} + li + {word}**
 
 sina suli li ike.
