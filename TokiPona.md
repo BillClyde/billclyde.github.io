@@ -16,4 +16,4 @@ and unlike any other language.
 * Because it teaches you to see things differently.
 * For simple talking.
 
-[Alphabet](Alphabet.md)
+ [Table of Contents](toc.md) | [Alphabet](Alphabet.md)

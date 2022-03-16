@@ -16,4 +16,4 @@ Stress falls on the first syllable.
 
 Toki Pona words are always written in lower case.
 
-[Introduction](TokiPona.md) | [Vocabulary](01Vocabulary.md)
+[Introduction](TokiPona.md) | [Table of Contents](toc.md) | [Vocabulary](01Vocabulary.md)
