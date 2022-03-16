@@ -32,3 +32,7 @@ title: Table of Contents
 [Vocabulary #6](25Vocabulary.md)
 [Body Parts](26sijelo.md)  
 [Practice](27Practice.md)  
+[Simple Questions](28SimpleQuestions.md)  
+[Simple Answers](29SimpleAnswers.md)  
+[Colors](30Colors.md)  
+[kepeken](31kepeken.md)  
