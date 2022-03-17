@@ -36,3 +36,5 @@ title: Table of Contents
 [Simple Answers](29SimpleAnswers.md)  
 [Colors](30Colors.md)  
 [kepeken](31kepeken.md)  
+[More Compound Words](32CompoundWords.md)  
+[Unofficial Words](33UnofficialWords.md)  
