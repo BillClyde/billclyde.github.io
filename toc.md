@@ -29,7 +29,7 @@ title: Table of Contents
 [sama](22sama.md)  
 [ala](23ala.md)  
 [ali](24ali.md)  
-[Vocabulary #6](25Vocabulary.md)
+[Vocabulary #6](25Vocabulary.md)  
 [Body Parts](26sijelo.md)  
 [Practice](27Practice.md)  
 [Simple Questions](28SimpleQuestions.md)  
