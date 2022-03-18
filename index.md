@@ -2,13 +2,14 @@
 
 ### Toki Pona
 Toki Pona is a minimalist language that can be spoken using only 120 words.  
-I am hosting a web version of [Toki Pona in 79 lessons](https://aiki.pbworks.com/f/tp+in+76+lessons+English.pdf).
+I am hosting a web version of [Toki Pona in 79 lessons](https://aiki.pbworks.com/f/tp+in+76+lessons+English.pdf) on this site:
 
 [Toki Pona Tutorial](TokiPona.md)
 
 #### Toki Pona Resources
-[lipu-linku](https://lipu-linku.github.io/) Online Toki Pona dictionary
-[Toki Pona](https://tokipona.org/) Official Site
+[Official Site](https://tokipona.org/)
+[Online Toki Pona dictionary](https://lipu-linku.github.io/) 
+[Cheat Sheet](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf)
 
 
 ### CQRS
