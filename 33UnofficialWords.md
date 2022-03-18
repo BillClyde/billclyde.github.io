@@ -26,4 +26,4 @@ nasin sewi Pusisin li pona.
 
 > Unofficial words cannot be used alone. They are always treated as adjectives and must follow after a noun. Also they are the only words in **toki pona** that start with a capital letter.
 
-[Compound Words](32CompoundWords.md) | [Table of Contents](toc.md) |
+[Compound Words](32CompoundWords.md) | [Table of Contents](toc.md) | [kama](34kama.md)

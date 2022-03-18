@@ -38,3 +38,6 @@ title: Table of Contents
 [kepeken](31kepeken.md)  
 [More Compound Words](32CompoundWords.md)  
 [Unofficial Words](33UnofficialWords.md)  
+[kama](34kama.md)  
+[Vocabulary #7](35Vocabulary.md)  
+[tawa](36tawa.md)  
