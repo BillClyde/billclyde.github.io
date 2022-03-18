@@ -25,4 +25,4 @@ ali li pona.
 mi wile li ali!
 : I want everything!
 
-[ala](23ala.md) | [Table of Contents](toc.md) | [Body Words](25sijelo.md)
+[ala](23ala.md) | [Table of Contents](toc.md) | [Vocabulary](25Vocabulary.md)
