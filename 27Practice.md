@@ -11,24 +11,45 @@ pipi li moku e noka mi.
 </details>
 
 oko li lukin.
-: The eye sees.
+<details>
+    <summary>Answer</summary>
+The eye sees.
+</details>
 
 nena kute li kute.
-: The ear hears.
+<details>
+<summary>Answer</summary>
+The ear hears.
+</details>
 
 insa mi li ike.
-: My stomach is bad.
+<details>
+<summary>Answer</summary>
+My stomach is bad.
+</details>
 
 luka mi li pona lukin.
-: My arms look good.
+<details>
+<summary>Answer</summary>
+My arms look good.
+</details>
 
 lawa sina li suli mute.
-: Your head is very big.
+<details>
+<summary>Answer</summary>
+Your head is very big.
+</details>
 
 linja lawa mi li jo e telo.
-: My hair is wet.
+<details>
+<summary>Answer</summary>
+My hair is wet.
+</details>
 
 mi jo ala li len luka.
-: I don't have any gloves.
+<details>
+<summary>Answer</summary>
+I don't have any gloves.
+</details>
 
 [Body Parts](26sijelo.md) | [Table of Contents](toc.md) | [Simple Questions](28SimpleQuestions.md)
