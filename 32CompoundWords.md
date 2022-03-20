@@ -27,6 +27,7 @@ jan lawa
 jan sewi li olin
 <details>
 <summary>Answer</summary>
+
 God is love
 </details>
 
@@ -35,6 +36,7 @@ God is love
 nasin sewi li mute
 <details>
 <summary>Answer</summary>
+
 There are many religions
 </details>
 
@@ -43,6 +45,7 @@ There are many religions
 jan lawa li nasa
 <details>
 <summary>Answer</summary>
+
 The leader is crazy
 </details>
 

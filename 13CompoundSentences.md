@@ -12,22 +12,25 @@ title: Compound Sentences
 sina suli li ike.
 <details>
 <summary>Answer</summary>
+
 You are big and bad.
 </details>
 
---
+---
 
 ona li pona li suli li nasa.
 <details>
 <summary>Answer</summary>
+
 He is good big and crazy.
 </details>
 
---
+---
 
 suno li suli li pona.
 <details>
 <summary>Answer</summary>
+
 The sun is big and good.
 </details>
 
@@ -36,6 +39,7 @@ The sun is big and good.
 pipi li moku e kili li unpa.
 <details>
 <summary>Answer</summary>
+
 The insect eats fruit and has sex.
 </details>
 
@@ -44,6 +48,7 @@ The insect eats fruit and has sex.
 jan nasa li jo e ilo utala li moli e jan lili.
 <details>
 <summary>Answer</summary>
+
 The crazy person has a gun and killed the child.
 </details>
 

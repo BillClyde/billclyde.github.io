@@ -9,6 +9,7 @@ title: Examples
 mi nasa!
 <details>
 <summary>Answer</summary>
+
 I am crazy!
 </details>
 
@@ -17,6 +18,7 @@ I am crazy!
 mi olin sina!
 <details>
 <summary>Answer</summary>
+
 I love you!
 </details>
 
@@ -25,6 +27,7 @@ I love you!
 jan utala li utala e ona li mole e ona.
 <details>
 <summary>Answer</summary>
+
 The soldier fought with them and killed them.
 </details>
 
@@ -33,6 +36,7 @@ The soldier fought with them and killed them.
 sina jan lili!
 <details>
 <summary>Answer</summary>
+
 You are a child!
 </details>
 
@@ -41,6 +45,7 @@ You are a child!
 jan suli li moku e telo nasa.
 <details>
 <summary>Answer</summary>
+
 The adults drink alcohol.
 </details>
 
@@ -49,6 +54,7 @@ The adults drink alcohol.
 mi jo li jan olin.
 <details>
 <summary>Answer</summary>
+
 I have a girlfriend.
 </details>
 
@@ -57,6 +63,7 @@ I have a girlfriend.
 mi mute li moli
 <details>
 <summary>Answer</summary>
+
 We kill. **or** We die.
 </details>
 
@@ -65,6 +72,7 @@ We kill. **or** We die.
 sina ike mute!
 <details>
 <summary>Answer</summary>
+
 You are very bad!
 </details>
 

@@ -7,6 +7,7 @@ title: Practice
 pipi li moku e noka mi.
 <details>
     <summary>Answer</summary>
+    
     The insect bit my foot
 </details>
 
@@ -15,6 +16,7 @@ pipi li moku e noka mi.
 oko li lukin.
 <details>
     <summary>Answer</summary>
+    
 The eye sees.
 </details>
 
@@ -23,6 +25,7 @@ The eye sees.
 nena kute li kute.
 <details>
 <summary>Answer</summary>
+
 The ear hears.
 </details>
 
@@ -31,6 +34,7 @@ The ear hears.
 insa mi li ike.
 <details>
 <summary>Answer</summary>
+
 My stomach is bad.
 </details>
 
@@ -39,6 +43,7 @@ My stomach is bad.
 luka mi li pona lukin.
 <details>
 <summary>Answer</summary>
+
 My arms look good.
 </details>
 
@@ -47,6 +52,7 @@ My arms look good.
 lawa sina li suli mute.
 <details>
 <summary>Answer</summary>
+
 Your head is very big.
 </details>
 
@@ -55,6 +61,7 @@ Your head is very big.
 linja lawa mi li jo e telo.
 <details>
 <summary>Answer</summary>
+
 My hair is wet.
 </details>
 
@@ -63,6 +70,7 @@ My hair is wet.
 mi jo ala li len luka.
 <details>
 <summary>Answer</summary>
+
 I don't have any gloves.
 </details>
 

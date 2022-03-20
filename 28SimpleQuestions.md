@@ -9,6 +9,7 @@ title: Simple Questions
 moku li pona ala pona?
 <details>
 <summary>Answer</summary>
+
 Is the food good? (the food is good not good)
 </details>
 
@@ -17,6 +18,7 @@ Is the food good? (the food is good not good)
 sina pona ala pona?
 <details>
 <summary>Answer</summary>
+
 Are you good?
 </details>
 
@@ -25,6 +27,7 @@ Are you good?
 suno li suli ala suli?
 <details>
 <summary>Answer</summary>
+
 Is the sun large?
 </details>
 
@@ -33,6 +36,7 @@ Is the sun large?
 sina wile ala wile moku?
 <details>
 <summary>Answer</summary>
+
 Do you want food?
 </details>
 
@@ -41,6 +45,7 @@ Do you want food?
 ona li olin ala olin e sina?
 <details>
 <summary>Answer</summary>
+
 Does he love you?
 </details>
 

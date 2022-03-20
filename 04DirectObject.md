@@ -12,6 +12,7 @@ Title: Direct Objects
   mi moku e kili.  
   <details>
   <summary>Answer</summary>
+
   I eat the fruit.  
   </details>
 
@@ -20,6 +21,7 @@ Title: Direct Objects
   pipi li moku e moku. 
   <details>
   <summary>Answer</summary>
+
   Bugs eat the food.  
   </details>
 

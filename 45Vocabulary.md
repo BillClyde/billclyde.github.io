@@ -30,6 +30,7 @@ sike tu
 jan lili li pana e telo jelo.
 <details>
 <summary>Answer</summary>
+
 The child pees.
 </details>
 
@@ -38,6 +39,7 @@ The child pees.
 mi pilin pona.
 <details>
 <summary>Answer</summary>
+
 I feel good.
 </details>
 
@@ -46,6 +48,7 @@ I feel good.
 kili li lon poki.
 <details>
 <summary>Answer</summary>
+
 The fruit is in the basket.
 </details>
 
@@ -54,6 +57,7 @@ The fruit is in the basket.
 mi musi kepeken sike.
 <details>
 <summary>Answer</summary>
+
 I played with the ball.
 </details>
 
@@ -62,6 +66,7 @@ I played with the ball.
 meli sama mi li jo e sike.
 <details>
 <summary>Answer</summary>
+
 My sister has a ball.
 </details>
 
@@ -70,6 +75,7 @@ My sister has a ball.
 ijo li lon oko mi.
 <details>
 <summary>Answer</summary>
+
 Something is in my eye.
 </details>
 

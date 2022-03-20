@@ -4,11 +4,12 @@ title: kama
 
 ## Toki Pona: kama
 
-> **kama** means "to come", "to happen"
+**kama** means "to come", "to happen"
 
 jan lili li kama ala.
 <details>
 <summary>Answer</summary>
+
 The children are not coming.
 </details>
 
@@ -17,6 +18,7 @@ The children are not coming.
 jan laso jelo lili li kama.
 <details>
 <summary>Answer</summary>
+
 The little green people are coming.
 </details>
 
@@ -36,6 +38,7 @@ kama moli
 mi wile kama sona e toki Kanse.
 <details>
 <summary>Answer</summary>
+
 I want to learn French.
 </details>
 

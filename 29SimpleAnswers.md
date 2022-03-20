@@ -9,6 +9,7 @@ title: Simple Answers
 sina musi ala musi?
 <details>
 <summary>Answer</summary>
+
 Are you having fun?
 </details>
 
@@ -17,6 +18,7 @@ Are you having fun?
 musi
 <details>
 <summary>Answer</summary>
+
 Yes I am having fun
 </details>
 
@@ -25,6 +27,7 @@ Yes I am having fun
 musi ala
 <details>
 <summary>Answer</summary>
+
 No I am not having fun
 </details>
 
@@ -33,6 +36,7 @@ No I am not having fun
 sina lukin ala lukin e soweli lili mute?
 <details>
 <summary>Answer</summary>
+
 Have you seen the hamster?
 </details>
 
@@ -41,6 +45,7 @@ Have you seen the hamster?
 lukin
 <details>
 <summary>Answer</summary>
+
 Yes I have seen it
 </details>
 
@@ -49,6 +54,7 @@ Yes I have seen it
 lukin ala
 <details>
 <summary>Answer</summary>
+
 No I have not seen it
 </details>
 

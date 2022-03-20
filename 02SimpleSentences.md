@@ -9,6 +9,7 @@ title: Simple Sentences
 mi pona!
 <details>
 <summary>Answer</summary>
+
 I'm good!  
 </details>
 
@@ -17,6 +18,7 @@ I'm good!
 sina moku 
 <details>
 <summary>Answer</summary>
+
 You eat  
 </details>
 
