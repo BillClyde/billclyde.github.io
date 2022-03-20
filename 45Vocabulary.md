@@ -28,21 +28,51 @@ sike tu
 : bicycle
 
 jan lili li pana e telo jelo.
-: The child pees.
+<details>
+<summary>Answer</summary>
+The child pees.
+</details>
+
+---
 
 mi pilin pona.
-: I feel good.
+<details>
+<summary>Answer</summary>
+I feel good.
+</details>
+
+---
 
 kili li lon poki.
-: The fruit is in the basket.
+<details>
+<summary>Answer</summary>
+The fruit is in the basket.
+</details>
+
+---
 
 mi musi kepeken sike.
-: I played with the ball.
+<details>
+<summary>Answer</summary>
+I played with the ball.
+</details>
+
+---
 
 meli sama mi li jo e sike.
-: My sister has a ball.
+<details>
+<summary>Answer</summary>
+My sister has a ball.
+</details>
+
+---
 
 ijo li lon oko mi.
-: Something is in my eye.
+<details>
+<summary>Answer</summary>
+Something is in my eye.
+</details>
+
+---
 
 [Interjections](44Interjections.md) | [Table of Contents](toc.md) | [tan](46tan.md)

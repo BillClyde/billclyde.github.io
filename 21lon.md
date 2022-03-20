@@ -7,23 +7,53 @@ title: lon
 > **lon** as a verb means to be present, to be there
 
 mi lon
-: I exist, I am present, I am alive
+<details>
+<summary>Answer</summary>
+I exist, I am present, I am alive
+</details>
+
+---
 
 jan mute li lon
-: There are many people
+<details>
+<summary>Answer</summary>
+There are many people
+</details>
+
+---
 
 > as a preposition **lon** means "in"
 
 selo li lon sewi.
-: The sun is in the sky.
+<details>
+<summary>Answer</summary>
+The sun is in the sky.
+</details>
+
+---
 
 jan lili li lon tomo sona.
-: The children are in the school.
+<details>
+<summary>Answer</summary>
+The children are in the school.
+</details>
+
+---
 
 ona musi li lon ma.
-: She plays in the field.
+<details>
+<summary>Answer</summary>
+She plays in the field.
+</details>
+
+---
 
 mi wile moli lon telo suli.
-: I wish to die at sea.
+<details>
+<summary>Answer</summary>
+I wish to die at sea.
+</details>
+
+---
 
 [Vocabulary](20Vocabulary.md) | [Table of Contents](toc.md) | [sama](22sama.md)

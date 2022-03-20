@@ -8,24 +8,50 @@ title: tawa
 > as a verb, it means "going to" or "move"
 
 jan lili li tawa tomo sona.
-: The children are going to school
+<details>
+<summary>Answer</summary>
+The children are going to school
+</details>
+
+---
 
 mi wile tawa tomo telo.
-: I need to go to the bathroom.
+<details>
+<summary>Answer</summary>
+I need to go to the bathroom.
+</details>
+
+---
 
 mi tawa ma tomo kepeken nasin ni.
-: I am going to the city using this road.
+<details>
+<summary>Answer</summary>
+I am going to the city using this road.
+</details>
+
+---
 
 ona li tawa e kiwen ni.
-: She is moving this rock.
+<details>
+<summary>Answer</summary>
+She is moving this rock.
+</details>
 
 > as a preposition it means toward
 
 mi toki tawa sina.
-: I am talking to you.
+<details>
+<summary>Answer</summary>
+I am talking to you.
+</details>
+
+---
 
 jan olin mi li kama tawa ma.
-: My girlfriend is coming to the country.
+<details>
+<summary>Answer</summary>
+My girlfriend is coming to the country.
+</details>
 
 > as an adjective it means "moving"
 

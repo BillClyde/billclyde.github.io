@@ -7,18 +7,43 @@ title: Simple Questions
 > Questions that can be answered Yes or No are formed as follows:
 
 moku li pona ala pona?
-: Is the food good? (the food is good not good)
+<details>
+<summary>Answer</summary>
+Is the food good? (the food is good not good)
+</details>
+
+---
 
 sina pona ala pona?
-: Are you good?
+<details>
+<summary>Answer</summary>
+Are you good?
+</details>
+
+---
 
 suno li suli ala suli?
-: Is the sun large?
+<details>
+<summary>Answer</summary>
+Is the sun large?
+</details>
+
+---
 
 sina wile ala wile moku?
-: Do you want food?
+<details>
+<summary>Answer</summary>
+Do you want food?
+</details>
+
+---
 
 ona li olin ala olin e sina?
-: Does he love you?
+<details>
+<summary>Answer</summary>
+Does he love you?
+</details>
+
+---
 
 [Practice](27Practice.md) | [Table of Contents](toc.md) | [Simple Answers](29SimpleAnswers.md)
