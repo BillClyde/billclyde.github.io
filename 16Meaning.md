@@ -7,30 +7,75 @@ title: Meaning
 > In toki pona word meanings are quite broad
 
 mi telo e mi.
-: I am washing myself.
+<details>
+<summary>Answer</summary>
+I am washing myself.
+</details>
+
+---
 
 mi pona e tomo mi.
-: I am fixing my house.
+<details>
+<summary>Answer</summary>
+I am fixing my house.
+</details>
+
+---
 
 jan lili li wile e kili telo.
-: The child wants fruit juice.
+<details>
+<summary>Answer</summary>
+The child wants fruit juice.
+</details>
+
+---
 
 pipi li moku e ona.
-: The bug bit him.
+<details>
+<summary>Answer</summary>
+The bug bit him.
+</details>
+
+---
 
 jan ni li pona lukin.
-: That person is pretty.
+<details>
+<summary>Answer</summary>
+That person is pretty.
+</details>
+
+---
 
 sina ike lukin.
-: You are ugly.
+<details>
+<summary>Answer</summary>
+You are ugly.
+</details>
+
+---
 
 ko jaki
-: poop
+<details>
+<summary>Answer</summary>
+poop
+</details>
+
+---
 
 ko moku
-: baby food
+<details>
+<summary>Answer</summary>
+baby food
+</details>
+
+---
 
 jaki!
-: Yuck!
+<details>
+<summary>Answer</summary>
+Yuck!
+</details>
+
+---
 
 [Vocabulary](15Vocabulary.md) | [Table of Contents](toc.md) | [Compound Sentences](17CompoundSentences.md)

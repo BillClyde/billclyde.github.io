@@ -19,10 +19,22 @@ jan suli
 kili lili 
 : small fruit  
 
+---
+
 sina moli e pipi lili. 
-: You killed a small bug.  
+<details>
+<summary>Answer</summary>
+You killed a small bug.  
+</details>
+
+---
 
 pipi li moku e ijo 
-: The bug is eating something  
+<details>
+<summary>Answer</summary>
+The bug is eating something  
+</details>
+
+---
 
 [Vocabulary](05Vocabulary.md) | [Table of Contents](toc.md) | [A Poem](07aPoem.md)

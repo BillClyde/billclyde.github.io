@@ -7,9 +7,19 @@ title: More Sentences
 **{noun} + li + {noun, adjective}**  
 
 ona li pona 
-: She is good.  
+<details>
+<summary>Answer</summary>
+She is good.  
+</details>
+
+---
 
 kili li moku 
-: Fruit is food.  
+<details>
+<summary>Answer</summary>
+Fruit is food.  
+</details>
+
+---
 
 [Simple Sentences](02SimpleSentences.md) | [Table of Contents](toc.md) | [Direct Object](04DirectObject.md)
