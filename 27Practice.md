@@ -5,7 +5,10 @@ title: Practice
 ## Toki Pona: Practice
 
 pipi li moku e noka mi.
-: The insect bit my foot
+<details>
+    <summary>Answer</summary>
+    The insect bit my foot
+</details>
 
 oko li lukin.
 : The eye sees.
