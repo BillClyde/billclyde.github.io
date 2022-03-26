@@ -8,7 +8,7 @@ title: poka
 
 mi lon poka jan pona mi.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I am with my friends.
 </details>
@@ -17,7 +17,7 @@ I am with my friends.
 
 sina tawa tomo sona poka meli sama mi.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 You go to school with my sister.
 </details>
@@ -26,7 +26,7 @@ You go to school with my sister.
 
 mi wile tawa musi poka sina.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I want to dance with you.
 </details>

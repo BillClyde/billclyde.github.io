@@ -8,7 +8,7 @@ title: kepeken
 
 mi moku kepeken ilo moku.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I eat with a fork.
 </details>
@@ -17,7 +17,7 @@ I eat with a fork.
 
 sina moli e pipi loje kepeken noka len sina.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 You killed the red bug with your shoe.
 </details>
@@ -26,7 +26,7 @@ You killed the red bug with your shoe.
 
 Ona kepeken ilo mute.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 She uses many tools.
 </details>
@@ -35,7 +35,7 @@ She uses many tools.
 
 sina kepeken ala e lawa!
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 You are not using your head.
 </details>

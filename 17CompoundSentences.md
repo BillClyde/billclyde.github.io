@@ -11,7 +11,7 @@ title: Compound Sencences
 
 mi olin e sina e ona.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I love you and her.
 </details>
@@ -20,7 +20,7 @@ I love you and her.
 
 sina moku e kili ike e telo jaki.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 You are consuming rotten fruit and dirty water
 </details>
@@ -29,7 +29,7 @@ You are consuming rotten fruit and dirty water
 
 mi lukin e suno e mun.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I look at the sun and the moon.
 </details>
@@ -38,7 +38,7 @@ I look at the sun and the moon.
 
 jan ni li lukin e me e sina
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 That person is looking at you and I.
 </details>

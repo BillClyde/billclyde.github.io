@@ -8,7 +8,7 @@ title: wile
 
 mi wile moku.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I wish to eat.
 </details>
@@ -17,7 +17,7 @@ I wish to eat.
 
 mi wile e moku.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I want food.
 </details>
@@ -26,7 +26,7 @@ I want food.
 
 mi wile moku e telo.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I wish to drink water.
 </details>
@@ -35,7 +35,7 @@ I wish to drink water.
 
 ona li wile mute e ni.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 He wants that very much.
 </details>
@@ -44,7 +44,7 @@ He wants that very much.
 
 ona wile jo e tomo.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 She wants to have a house.
 </details>
@@ -53,7 +53,7 @@ She wants to have a house.
 
 mi wile mute lukin e sina.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I want to see you very much.
 </details>
@@ -62,7 +62,7 @@ I want to see you very much.
 
 jan nasa li wile moli!
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 Crazy people want to die!
 </details>

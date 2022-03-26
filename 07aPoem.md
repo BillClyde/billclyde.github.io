@@ -10,7 +10,7 @@ ona li lili
 mi moku lili e kili lili
 
 <detail>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I have a fruit  
 It is good  

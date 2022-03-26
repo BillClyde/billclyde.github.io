@@ -8,7 +8,7 @@ title: sama
 
 jan ni li sama mi.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 That person is like me.
 </details>
@@ -17,7 +17,7 @@ That person is like me.
 
 len mi li sama len sina.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 My clothes are like your clothes.
 </details>
@@ -26,7 +26,7 @@ My clothes are like your clothes.
 
 mi lon tomo sewi. jan li lukin sama pipi.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I am in a skyscraper. The people look like ants.
 </details>
@@ -36,7 +36,7 @@ I am in a skyscraper. The people look like ants.
 
 meli li wile e sama.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 Women want equality.
 </details>

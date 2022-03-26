@@ -8,7 +8,7 @@ title: More Sentences
 
 ona li pona 
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 She is good.  
 </details>
@@ -17,7 +17,7 @@ She is good.
 
 kili li moku 
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 Fruit is food.  
 </details>

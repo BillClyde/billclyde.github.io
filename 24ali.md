@@ -9,7 +9,7 @@ title: ali
 
 jan ali
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 Everyone, all people
 </details>
 
@@ -17,7 +17,7 @@ Everyone, all people
 
 jan ali li moku.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 Everyone is eating
 </details>
 
@@ -25,7 +25,7 @@ Everyone is eating
 
 ma ali li pona.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 All countries are good.
 </details>
 
@@ -33,7 +33,7 @@ All countries are good.
 
 mije ali li sama.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 All men are the same.
 </details>
 
@@ -41,7 +41,7 @@ All men are the same.
 
 ali li pona.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 Everything is fine.
 </details>
 
@@ -49,7 +49,7 @@ Everything is fine.
 
 mi wile li ali!
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 I want everything!
 </details>
 

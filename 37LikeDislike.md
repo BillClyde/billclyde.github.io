@@ -8,7 +8,7 @@ title: Like / Dislike
 
 kili li pona tawa mi.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I like fruit (Fruit is good to me)
 </details>
@@ -17,7 +17,7 @@ I like fruit (Fruit is good to me)
 
 lape li pona tawa mi.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I like sleep.
 </details>
@@ -26,7 +26,7 @@ I like sleep.
 
 mama sina li ike tawa mi.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I do not like your parents (Your parents are bad to me)
 </details>
@@ -35,7 +35,7 @@ I do not like your parents (Your parents are bad to me)
 
 sina pona tawa mi.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I like you.
 </details>
@@ -45,7 +45,7 @@ I like you.
 
 mi moku e pipi. ni li pona tawa mi.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I like to eat bugs (I eat bugs. This is good to me)
 </details>
@@ -54,7 +54,7 @@ I like to eat bugs (I eat bugs. This is good to me)
 
 mi lukin e ma. ni li pona tawa mi.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I like to see the fields.
 </details>

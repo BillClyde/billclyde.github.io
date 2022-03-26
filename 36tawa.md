@@ -9,7 +9,7 @@ title: tawa
 
 jan lili li tawa tomo sona.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 The children are going to school
 </details>
@@ -18,7 +18,7 @@ The children are going to school
 
 mi wile tawa tomo telo.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I need to go to the bathroom.
 </details>
@@ -27,7 +27,7 @@ I need to go to the bathroom.
 
 mi tawa ma tomo kepeken nasin ni.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I am going to the city using this road.
 </details>
@@ -36,7 +36,7 @@ I am going to the city using this road.
 
 ona li tawa e kiwen ni.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 She is moving this rock.
 </details>
@@ -45,7 +45,7 @@ She is moving this rock.
 
 mi toki tawa sina.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I am talking to you.
 </details>
@@ -54,7 +54,7 @@ I am talking to you.
 
 jan olin mi li kama tawa ma.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 My girlfriend is coming to the country.
 </details>

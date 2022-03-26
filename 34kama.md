@@ -8,7 +8,7 @@ title: kama
 
 jan lili li kama ala.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 The children are not coming.
 </details>
@@ -17,7 +17,7 @@ The children are not coming.
 
 jan laso jelo lili li kama.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 The little green people are coming.
 </details>
@@ -37,7 +37,7 @@ kama moli
 
 mi wile kama sona e toki Kanse.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 
 I want to learn French.
 </details>

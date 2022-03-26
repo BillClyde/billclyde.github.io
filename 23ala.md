@@ -8,7 +8,7 @@ title: ala
 
 mi musi ala.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 I am not having fun.
 </details>
 
@@ -16,7 +16,7 @@ I am not having fun.
 
 mi sona ala.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 I am not smart
 </details>
 
@@ -24,7 +24,7 @@ I am not smart
 
 jan ala
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 Nobody
 </details>
 
@@ -32,7 +32,7 @@ Nobody
 
 jan ala li toki.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 Nobody is speaking.
 </details>
 
@@ -40,7 +40,7 @@ Nobody is speaking.
 
 tomo sewi lin lon ma.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 There are no tall buildings in the fields.
 </details>
 
@@ -48,7 +48,7 @@ There are no tall buildings in the fields.
 
 mi jo ala e len.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 I have no clothes
 </details>
 
@@ -56,7 +56,7 @@ I have no clothes
 
 ala li jaki.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 Nothing is dirty.
 </details>
 
@@ -64,7 +64,7 @@ Nothing is dirty.
 
 ala li suli.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 Nothing is important.
 </details>
 
@@ -72,7 +72,7 @@ Nothing is important.
 
 ala li sama.
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 Nothing is the same.
 </details>
 

@@ -23,7 +23,7 @@ kili lili
 
 sina moli e pipi lili. 
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 You killed a small bug.  
 </details>
 
@@ -31,7 +31,7 @@ You killed a small bug.
 
 pipi li moku e ijo 
 <details>
-<summary>Answer</summary>
+<summary>Translation</summary>
 The bug is eating something  
 </details>
 
