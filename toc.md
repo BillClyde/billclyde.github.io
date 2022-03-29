@@ -63,3 +63,4 @@ title: Table of Contents
 [56. seme](56seme.md)  
 [57. seme in depth #1](57seme.md)  
 [58. seme in depth #2](58seme.md)  
+[59. Temperature](59Temperature.md)

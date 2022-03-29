@@ -36,4 +36,4 @@ With a bit of practice you will find it becomes much easier.
 One good trick to check if you made a good question is to replace **seme** with **ni** and think of the question as a statement. If the statement does not make sense it is probably not a good question.
 
 
-[seme in depth #1](57seme.md) | [Table of Contents](toc.md) |
+[seme in depth #1](57seme.md) | [Table of Contents](toc.md) | [Temperature](59Temperature.md)
