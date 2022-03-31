@@ -35,4 +35,4 @@ mi wile e telo sewi pi lete mute
 
 > This is a very good example of using **pi** 
 
-[seme in depth #2](58seme.md) | [Table of Contents](toc.md) |
+[seme in depth #2](58seme.md) | [Table of Contents](toc.md) | [Directions](60Directions.md)
