@@ -30,4 +30,4 @@ tomo sona mi li lon monsi pi tomo sina.
 tomo tawa sona li lon sinpin pi tomo sina.
 : The school bus is in front of your house.
 
-[Directions](60Directions.md) | [Table of Contents](toc.md) |
+[Directions](60Directions.md) | [Table of Contents](toc.md) | [ken](62ken.md)
