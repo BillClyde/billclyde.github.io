@@ -68,4 +68,5 @@ title: Table of Contents
 [61. Directional Examples](61Examples.md)  
 [62. ken](62ken.md)  
 [63. anu](63anu.md)  
-
+[64. kin](64kin.md)  
+[Vocabulary #10](65Vocabulary.md)  

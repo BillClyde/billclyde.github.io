@@ -4,7 +4,7 @@ title: anu
 
 ## Toki Pona: anu
 
-> **anu** mean or
+> **anu** means or
 
 mi wile jo e mani anu moku.
 : I want to have money or food.
@@ -34,4 +34,4 @@ sina kama anu seme?
 sina wile e mani anu seme?
 : Do you want the money or not?
 
-[ken](62ken.md) | [Table of Contents](toc.md) | 
+[ken](62ken.md) | [Table of Contents](toc.md) | [kin](64kin.md)
