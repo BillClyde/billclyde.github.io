@@ -25,4 +25,4 @@ open
 nimi
 : word, name
 
-[kin](64kin.md) | [Table of Contents](toc.md) |
+[kin](64kin.md) | [Table of Contents](toc.md) | [Examples](66Examples.md)
