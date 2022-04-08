@@ -31,4 +31,4 @@ sina anu jan ante li moku e suwi mi?
 mi wile lukin e ma ante.
 : I want to see other countries
 
-[Examples](66Examples.md) | [Table of Contents](toc.md) |
+[Examples](66Examples.md) | [Table of Contents](toc.md) | [NoThat](68nothat.md)
