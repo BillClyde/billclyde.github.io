@@ -24,4 +24,4 @@ toki musi
 sina pali e kepeken nasin seme?
 : How did you do that? (you did that using what method?)
 
-[sin](69sin.md) | [Table of Contents](toc.md) |
+[sin](69sin.md) | [Table of Contents](toc.md) | [la](71la.md)

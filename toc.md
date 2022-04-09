@@ -74,4 +74,6 @@ title: Table of Contents
 [67. ante](67ante.md)  
 [68. No that](68nothat.md)  
 [69. sin](69sin.md)  
-[70. Creativity](70creativity.md)
+[70. Creativity](70creativity.md)  
+[71. la](71la.md)  
+[72. First use of la](72la.md)  
