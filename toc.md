@@ -73,3 +73,5 @@ title: Table of Contents
 [66. Examples](66Examples.md)  
 [67. ante](67ante.md)  
 [68. No that](68nothat.md)  
+[69. sin](69sin.md)  
+[70. Creativity](70creativity.md)
