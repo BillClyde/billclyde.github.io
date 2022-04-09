@@ -77,3 +77,7 @@ title: Table of Contents
 [70. Creativity](70creativity.md)  
 [71. la](71la.md)  
 [72. First use of la](72la.md)  
+[73. tenpo](73tenpo.md)  
+[74. Time and la](74la.md)  
+[75. more seme](75seme.md)  
+[76. Conditional la](76la.md)
