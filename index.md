@@ -11,8 +11,3 @@ I am hosting a web version of [Toki Pona in 79 lessons](https://aiki.pbworks.com
 [Online Toki Pona dictionary](https://lipu-linku.github.io/)  
 [Cheat Sheet](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf)  
 [The Egg](https://blinry.org/sike-mama/) by Andy Weir, translated by blinry  
-
-### CQRS
-CQRS is one of those software patterns that you find in the most unexpected places.
-
-Most recently I have been using a minimalist library called CQRS Essentials written in .NET
