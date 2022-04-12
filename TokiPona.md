@@ -1,7 +1,7 @@
 ---
 title: Toki Pona
 ---
-## Toki Pona Introducion
+## Toki Pona Introduction
 
 ### Why Toki Pona?
 

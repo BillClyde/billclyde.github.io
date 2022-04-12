@@ -4,6 +4,7 @@ title: Table of Contents
 
 ## Toki Pona: Table of Contents
 
+[Introduction](TokiPona.md)
 [0. Alphabet](Alphabet.md)  
 [1. Vocabulary #1](01Vocabulary.md)  
 [2. Simple Sentences](02SimpleSentences.md)  
