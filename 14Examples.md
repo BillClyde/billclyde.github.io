@@ -24,7 +24,7 @@ I love you!
 
 ---
 
-jan utala li utala e ona li mole e ona.
+jan utala li utala e ona li moli e ona.
 <details>
 <summary>Translation</summary>
 
