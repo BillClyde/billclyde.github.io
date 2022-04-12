@@ -9,14 +9,12 @@ ona li pona
 ona li lili  
 mi moku lili e kili lili
 
-<detail>
-<summary>Translation</summary>
+---
 
 I have a fruit  
 It is good  
 It is small  
 I nibble the little fruit  
-</detail>
 
 ### An important note:
 
