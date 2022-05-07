@@ -10,21 +10,9 @@ Title: Direct Objects
   **{noun} + li + {verb} + e + {object}**  
 
   mi moku e kili.  
-  <details>
-  <summary>Translation</summary>
-
-  I eat the fruit.  
-  </details>
-
-  ---
+  : I eat the fruit.  
   
   pipi li moku e moku. 
-  <details>
-  <summary>Translation</summary>
-
-  Bugs eat the food.  
-  </details>
-
-  ---
+  : Bugs eat the food.  
 
   [Sentences](03Sentences.md) | [Table of Contents](toc.md) | [Vocabulary](05Vocabulary.md)

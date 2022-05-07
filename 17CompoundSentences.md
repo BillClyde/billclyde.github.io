@@ -10,39 +10,15 @@ title: Compound Sencences
 **{subject} + li + {verb} + e + {object} + e + {object}**
 
 mi olin e sina e ona.
-<details>
-<summary>Translation</summary>
-
-I love you and her.
-</details>
-
----
+: I love you and her.
 
 sina moku e kili ike e telo jaki.
-<details>
-<summary>Translation</summary>
-
-You are consuming rotten fruit and dirty water
-</details>
-
----
+: You are consuming rotten fruit and dirty water
 
 mi lukin e suno e mun.
-<details>
-<summary>Translation</summary>
-
-I look at the sun and the moon.
-</details>
-
----
+: I look at the sun and the moon.
 
 jan ni li lukin e me e sina
-<details>
-<summary>Translation</summary>
-
-That person is looking at you and I.
-</details>
-
----
+: That person is looking at you and I.
 
 [Meaning](16Meaning.md) | [Table of Contents](toc.md) | [wile](18wile.md)

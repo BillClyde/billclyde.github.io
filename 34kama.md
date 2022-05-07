@@ -36,10 +36,6 @@ kama moli
 > For example "learning" is a process that end with knowing
 
 mi wile kama sona e toki Kanse.
-<details>
-<summary>Translation</summary>
-
-I want to learn French.
-</details>
+: I want to learn French.
 
 [Unofficial Words](33UnofficialWords.md) | [Table of Contents](toc.md) | [Vocabulary](35Vocabulary.md)

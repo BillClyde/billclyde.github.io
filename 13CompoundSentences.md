@@ -10,48 +10,18 @@ title: Compound Sentences
 **{subject} + li + {word} + li + {word}**
 
 sina suli li ike.
-<details>
-<summary>Translation</summary>
-
-You are big and bad.
-</details>
-
----
+: You are big and bad.
 
 ona li pona li suli li nasa.
-<details>
-<summary>Translation</summary>
-
-He is good big and crazy.
-</details>
-
----
+: He is good big and crazy.
 
 suno li suli li pona.
-<details>
-<summary>Translation</summary>
-
-The sun is big and good.
-</details>
-
----
+: The sun is big and good.
 
 pipi li moku e kili li unpa.
-<details>
-<summary>Translation</summary>
-
-The insect eats fruit and has sex.
-</details>
-
----
+: The insect eats fruit and has sex.
 
 jan nasa li jo e ilo utala li moli e jan lili.
-<details>
-<summary>Translation</summary>
-
-The crazy person has a gun and killed the child.
-</details>
-
----
+: The crazy person has a gun and killed the child.
 
 [Plurals](12Plurals.md) | [Table of Contents](toc.md) | [Examples](14Examples.md)

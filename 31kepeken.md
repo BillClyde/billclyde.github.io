@@ -7,39 +7,17 @@ title: kepeken
 > As a preposition **kepeken** is "with" in the sense of "using"
 
 mi moku kepeken ilo moku.
-<details>
-<summary>Translation</summary>
-
-I eat with a fork.
-</details>
-
----
+: I eat with a fork.
 
 sina moli e pipi loje kepeken noka len sina.
-<details>
-<summary>Translation</summary>
-
-You killed the red bug with your shoe.
-</details>
+: You killed the red bug with your shoe.
 
 > **kepeken** can be used as a verb
 
 Ona kepeken ilo mute.
-<details>
-<summary>Translation</summary>
-
-She uses many tools.
-</details>
-
----
+: She uses many tools.
 
 sina kepeken ala e lawa!
-<details>
-<summary>Translation</summary>
-
-You are not using your head.
-</details>
-
----
+: You are not using your head.
 
 [Colors](30Colors.md) | [Table of Contents](toc.md) | [More Compound Words](32CompoundWords.md)

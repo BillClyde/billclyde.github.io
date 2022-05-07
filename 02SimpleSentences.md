@@ -7,21 +7,9 @@ title: Simple Sentences
 **{mi, sina} + {noun, adjective}**  
 
 mi pona!
-<details>
-<summary>Translation</summary>
-
-I'm good!  
-</details>
-
----
+: I'm good!  
 
 sina moku 
-<details>
-<summary>Translation</summary>
-
-You eat  
-</details>
-
----
+: You eat  
 
 [Vocabulary](01Vocabulary.md) | [Table of Contents](toc.md) | [Sentences](03Sentences.md)

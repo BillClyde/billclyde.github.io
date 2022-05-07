@@ -1,63 +1,31 @@
 ---
-title: Simple Translations
+title: Simple Answers
 ---
 
-## Toki Pona: Simple Translations
+## Toki Pona: Simple Answers
 
 > Suppose someone asks you:
 
 sina musi ala musi?
-<details>
-<summary>Translation</summary>
-
-Are you having fun?
-</details>
+: Are you having fun?
 
 > Then the response could be:
 
 musi
-<details>
-<summary>Translation</summary>
-
-Yes I am having fun
-</details>
-
----
+: Yes I am having fun
 
 musi ala
-<details>
-<summary>Translation</summary>
-
-No I am not having fun
-</details>
+: No I am not having fun
 
 > Another example:
 
 sina lukin ala lukin e soweli lili mute?
-<details>
-<summary>Translation</summary>
-
-Have you seen the hamster?
-</details>
-
----
+: Have you seen the hamster?
 
 lukin
-<details>
-<summary>Translation</summary>
-
-Yes I have seen it
-</details>
-
----
+: Yes I have seen it
 
 lukin ala
-<details>
-<summary>Translation</summary>
-
-No I have not seen it
-</details>
-
----
+: No I have not seen it
 
 [Simple Questions](28SimpleQuestions.md) | [Table of Contents](toc.md) | [Colors](30Colors.md)

@@ -25,30 +25,12 @@ jan lawa
 ---
 
 jan sewi li olin
-<details>
-<summary>Translation</summary>
-
-God is love
-</details>
-
----
+: God is love
 
 nasin sewi li mute
-<details>
-<summary>Translation</summary>
-
-There are many religions
-</details>
-
----
+: There are many religions
 
 jan lawa li nasa
-<details>
-<summary>Translation</summary>
-
-The leader is crazy
-</details>
-
----
+: The leader is crazy
 
 [kepeken](31kepeken.md) | [Table of Contents](toc.md) | [Unofficial Words](33UnofficialWords.md)

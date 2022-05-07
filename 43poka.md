@@ -7,29 +7,13 @@ title: poka
 > To say that you are doing something with someone you use **poka**
 
 mi lon poka jan pona mi.
-<details>
-<summary>Translation</summary>
-
-I am with my friends.
-</details>
-
----
+: I am with my friends.
 
 sina tawa tomo sona poka meli sama mi.
-<details>
-<summary>Translation</summary>
-
-You go to school with my sister.
-</details>
-
----
+: You go to school with my sister.
 
 mi wile tawa musi poka sina.
-<details>
-<summary>Translation</summary>
-
-I want to dance with you.
-</details>
+: I want to dance with you.
 
 > A verb must always come before **poka**
 

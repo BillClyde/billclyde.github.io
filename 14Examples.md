@@ -7,74 +7,28 @@ title: Examples
 > We can say many things
 
 mi nasa!
-<details>
-<summary>Translation</summary>
-
-I am crazy!
-</details>
-
----
+: I am crazy!
 
 mi olin sina!
-<details>
-<summary>Translation</summary>
-
-I love you!
-</details>
-
----
+: I love you!
 
 jan utala li utala e ona li moli e ona.
-<details>
-<summary>Translation</summary>
-
-The soldier fought with them and killed them.
-</details>
-
----
+: The soldier fought with them and killed them.
 
 sina jan lili!
-<details>
-<summary>Translation</summary>
-
-You are a child!
-</details>
-
----
+: You are a child!
 
 jan suli li moku e telo nasa.
-<details>
-<summary>Translation</summary>
-
-The adults drink alcohol.
-</details>
-
----
+: The adults drink alcohol.
 
 mi jo li jan olin.
-<details>
-<summary>Translation</summary>
-
-I have a girlfriend.
-</details>
-
----
+: I have a girlfriend.
 
 mi mute li moli
-<details>
-<summary>Translation</summary>
-
-We kill. **or** We die.
-</details>
-
----
+: We kill. **or** We die.
 
 sina ike mute!
-<details>
-<summary>Translation</summary>
-
-You are very bad!
-</details>
+: You are very bad!
 
 > Some words work as exclamations
 

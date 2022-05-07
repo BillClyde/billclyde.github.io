@@ -8,51 +8,21 @@ title: ali
 > **ali** can be an adjective or a noun
 
 jan ali
-<details>
-<summary>Translation</summary>
-Everyone, all people
-</details>
-
----
+: Everyone, all people
 
 jan ali li moku.
-<details>
-<summary>Translation</summary>
-Everyone is eating
-</details>
-
----
+: Everyone is eating
 
 ma ali li pona.
-<details>
-<summary>Translation</summary>
-All countries are good.
-</details>
-
----
+: All countries are good.
 
 mije ali li sama.
-<details>
-<summary>Translation</summary>
-All men are the same.
-</details>
-
----
+: All men are the same.
 
 ali li pona.
-<details>
-<summary>Translation</summary>
-Everything is fine.
-</details>
-
----
+: Everything is fine.
 
 mi wile li ali!
-<details>
-<summary>Translation</summary>
-I want everything!
-</details>
-
----
+: I want everything!
 
 [ala](23ala.md) | [Table of Contents](toc.md) | [Vocabulary](25Vocabulary.md)

@@ -7,58 +7,26 @@ title: Like / Dislike
 > Follow these examples to say you like or dislike something
 
 kili li pona tawa mi.
-<details>
-<summary>Translation</summary>
-
-I like fruit (Fruit is good to me)
-</details>
-
----
+: I like fruit (Fruit is good to me)
 
 lape li pona tawa mi.
-<details>
-<summary>Translation</summary>
-
-I like sleep.
-</details>
-
----
+: I like sleep.
 
 mama sina li ike tawa mi.
-<details>
-<summary>Translation</summary>
-
-I do not like your parents (Your parents are bad to me)
-</details>
-
----
+: I do not like your parents
+: (Your parents are bad to me)
 
 sina pona tawa mi.
-<details>
-<summary>Translation</summary>
-
-I like you.
-</details>
+: I like you.
 
 
 > To say that you like to do something you use two sentences.
 
 mi moku e pipi. ni li pona tawa mi.
-<details>
-<summary>Translation</summary>
-
-I like to eat bugs (I eat bugs. This is good to me)
-</details>
-
----
+: I like to eat bugs
+: (I eat bugs. This is good to me)
 
 mi lukin e ma. ni li pona tawa mi.
-<details>
-<summary>Translation</summary>
-
-I like to see the fields.
-</details>
-
----
+: I like to see the fields.
 
 [tawa](36tawa.md) | [Table of Contents](toc.md) | [pi](38pi.md)
