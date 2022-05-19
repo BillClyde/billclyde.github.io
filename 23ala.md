@@ -18,7 +18,7 @@ jan ala
 jan ala li toki.
 : Nobody is speaking.
 
-tomo sewi lin lon ma.
+tomo sewi ala lon ma.
 : There are no tall buildings in the fields.
 
 mi jo ala e len.
