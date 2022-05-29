@@ -28,4 +28,7 @@ meli
 mije
 : man
 
+tonsi
+: non-binary, intersex, transgender
+
 [Adjectives and Adverbs](19AdjectivesAdverbs.md) | [Table of Contents](toc.md) | [lon](21lon.md)
