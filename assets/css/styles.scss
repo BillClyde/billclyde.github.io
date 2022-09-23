@@ -1,0 +1,10 @@
+@import "{{ site.theme }}";
+
+@font-face {
+    font-family: "linja-sike";
+    src: url(../fonts/linja-sike-5.otf);
+}
+
+.toki-pona {
+    font-family: 'linja-sike';
+}
