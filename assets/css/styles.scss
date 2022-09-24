@@ -2,16 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-
 @font-face {
     font-family: "linja-sike";
     src: url(/assets/fonts/linja-sike-5.otf);
 }
-
 .toki-pona {
-    font-family: 'linja-sike' !important;
-}
-
-body {
-    font-size: 30px;
+    font-family: 'linja-sike';
 }
