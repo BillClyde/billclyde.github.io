@@ -7,7 +7,8 @@ Title: First Words
 mi
 : I  
 
-sina <span class="toki-pona">sina</span>
+sina
+<span class="toki-pona">sina</span>
 : you  
 
 ona
