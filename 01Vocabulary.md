@@ -8,7 +8,6 @@ mi
 : I  
 
 sina
-<span class="toki-pona">sina</span>
 : you  
 
 ona
