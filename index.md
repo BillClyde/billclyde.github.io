@@ -11,5 +11,5 @@ I am hosting a web version of [Toki Pona in 79 lessons](https://aiki.pbworks.com
 [Online Toki Pona dictionary](https://lipu-linku.github.io/)  
 [Cheat Sheet](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf)  
 [The Egg](https://blinry.org/sike-mama/) by Andy Weir, translated by blinry  
-[Duostories](https://www.duostories.org/tok-en)
+[Duostories](https://www.duostories.org/tok-en) Duolingo's stories translated into Toki Pona 
 [o pilin e toki pona](https://www.youtube.com/playlist?list=PLwYL9_SRAk8EXSZPSTm9lm2kD_Z1RzUgm) 30 stories to learn toki pona
